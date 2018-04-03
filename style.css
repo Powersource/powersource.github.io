@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 440px;
+    text-align: center;
+}
+
+.title {
+    color: rgb(0, 150, 57);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
